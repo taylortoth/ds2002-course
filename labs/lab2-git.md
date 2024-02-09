@@ -14,3 +14,7 @@ Use your web browser to complete these steps.
 6. Once that is complete, wait about 20 seconds and refresh the page in your copy of the lesson.
 7. Follow the instructions to complete the lesson.
 8. Once complete, go back to https://skills.github.com/ and complete the "Review pull requests" lesson using the same steps as above.
+
+github URLS
+https://github.com/taylortoth/skills-introduction-to-github?files=1
+https://github.com/taylortoth/skills-review-pull-requests
