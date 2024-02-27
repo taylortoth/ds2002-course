@@ -1,4 +1,4 @@
-# ds2002
+# ds2002 - Taylor's Version
 
 Welcome to DS2002 Data Science Systems!
 
